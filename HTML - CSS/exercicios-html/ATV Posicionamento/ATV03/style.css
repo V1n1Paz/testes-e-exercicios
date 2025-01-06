@@ -1,0 +1,30 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 5px;
+}
+
+#bloco1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#bloco2{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+#bloco3{
+    position: absolute;
+    top: 0px;
+    left: 200px;
+}
+
+#bloco4{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
