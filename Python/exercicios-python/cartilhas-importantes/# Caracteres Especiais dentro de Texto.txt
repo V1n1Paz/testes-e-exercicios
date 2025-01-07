@@ -1,0 +1,8 @@
+# Caracteres Especiais dentro de Texto
+
+Alguns caracteres como o 'enter' tem um código específico no Python para serem usados. Os principais são:
+\"  Aspas Duplas
+\'	Aspas Simples	
+\\	Contra Barra
+\n	Nova Linha		
+\t	Tab	
