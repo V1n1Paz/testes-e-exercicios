@@ -1,4 +1,5 @@
 .vscode/
-bin/Debug/
-obj/Debug/
-output/
+*.layout
+*.depend
+*.cbp
+*.autosave
