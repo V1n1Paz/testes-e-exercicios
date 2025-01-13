@@ -18,7 +18,7 @@ int main()
         blinkO( ledOutBlue );           // Piscar a letra O 
         blinkLetterInterval();          // Intervalo entre letras
         blinkS( ledOutBlue );           // Piscar a letra S
-        sleep_ms( 3000 );               // Intervalo final
+        sleep_ms( 3000 );               // Aguarda o intervalo final de 3000ms 
     }
 }
 
