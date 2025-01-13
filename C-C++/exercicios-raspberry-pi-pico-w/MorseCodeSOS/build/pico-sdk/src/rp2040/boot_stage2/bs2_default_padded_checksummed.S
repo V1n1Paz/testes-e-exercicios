@@ -1,4 +1,4 @@
-// Padded and checksummed version of: D:/Vini/EMBARCATECH/MorseCodeSOS/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: D:/Vini/testes-e-exercicios/C-C++/exercicios-raspberry-pi-pico-w/MorseCodeSOS/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

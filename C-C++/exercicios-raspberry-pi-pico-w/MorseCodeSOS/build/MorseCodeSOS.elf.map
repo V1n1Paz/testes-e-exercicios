@@ -184,7 +184,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_line    0x00000000      0x147 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
- .debug_str     0x00000000      0x1b4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
+ .debug_str     0x00000000      0x1e1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_frame   0x00000000       0x28 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .ARM.attributes
@@ -352,7 +352,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x14c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .debug_line    0x00000000      0xe90 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
- .debug_str     0x00000000      0x50c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
+ .debug_str     0x00000000      0x539 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .debug_frame   0x00000000       0xf4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .ARM.attributes
@@ -443,7 +443,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x61 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .debug_line    0x00000000      0x50e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
- .debug_str     0x00000000      0x3e8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
+ .debug_str     0x00000000      0x415 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .debug_frame   0x00000000       0x74 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .ARM.attributes
@@ -545,7 +545,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x64 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .debug_line    0x00000000      0x5eb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
- .debug_str     0x00000000      0x39c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
+ .debug_str     0x00000000      0x3c9 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .debug_frame   0x00000000      0x124 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .ARM.attributes
@@ -587,7 +587,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x4a2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .debug_line    0x00000000     0x13fb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
- .debug_str     0x00000000      0x3e5 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
+ .debug_str     0x00000000      0x412 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .debug_frame   0x00000000      0x178 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .ARM.attributes
@@ -620,7 +620,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x10f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .debug_line    0x00000000     0x1007 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
- .debug_str     0x00000000      0x485 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
+ .debug_str     0x00000000      0x4b2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .debug_frame   0x00000000       0xf0 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .ARM.attributes
@@ -694,7 +694,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x34 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_line    0x00000000      0x32f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
- .debug_str     0x00000000      0x350 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
+ .debug_str     0x00000000      0x37d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .ARM.attributes
@@ -738,7 +738,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
  .debug_line    0x00000000       0x70 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
- .debug_str     0x00000000      0x192 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
+ .debug_str     0x00000000      0x1bf CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
@@ -750,7 +750,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
  .debug_line    0x00000000       0x73 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
- .debug_str     0x00000000      0x195 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
+ .debug_str     0x00000000      0x1c2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
@@ -784,7 +784,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x4f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .debug_line    0x00000000      0x4b2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
- .debug_str     0x00000000      0x6ee CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
+ .debug_str     0x00000000      0x71b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .debug_frame   0x00000000       0xa0 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .ARM.attributes
@@ -811,12 +811,12 @@ Discarded input sections
                 0x00000000       0x14 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_line    0x00000000       0xa6 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_line_str
-                0x00000000       0x76 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
+                0x00000000       0xa3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
- .debug_str     0x00000000       0x84 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
+ .debug_str     0x00000000       0xb1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .ARM.attributes
@@ -846,7 +846,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .debug_line    0x00000000      0x334 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
- .debug_str     0x00000000      0x25b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
+ .debug_str     0x00000000      0x288 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .ARM.attributes
@@ -1032,7 +1032,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x5f3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .debug_line    0x00000000     0x2d40 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
- .debug_str     0x00000000      0x517 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
+ .debug_str     0x00000000      0x544 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .debug_frame   0x00000000      0x44c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .ARM.attributes
@@ -1198,7 +1198,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x405 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .debug_line    0x00000000     0x25ae CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
- .debug_str     0x00000000      0x52a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
+ .debug_str     0x00000000      0x557 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .debug_frame   0x00000000      0x390 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .ARM.attributes
@@ -1230,7 +1230,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x49 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
  .debug_line    0x00000000      0x2ac CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
- .debug_str     0x00000000      0x234 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
+ .debug_str     0x00000000      0x261 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
  .debug_frame   0x00000000       0x74 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
  .ARM.attributes
@@ -1335,7 +1335,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x439 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .debug_line    0x00000000     0x2e26 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
- .debug_str     0x00000000      0x6f2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
+ .debug_str     0x00000000      0x71f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .debug_frame   0x00000000      0x3dc CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .ARM.attributes
@@ -1358,7 +1358,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .debug_line    0x00000000      0x28f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
- .debug_str     0x00000000      0x37b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
+ .debug_str     0x00000000      0x3a8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .debug_frame   0x00000000       0xa0 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .ARM.attributes
@@ -1537,7 +1537,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x19 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .debug_line    0x00000000      0x396 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
- .debug_str     0x00000000      0x2a1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
+ .debug_str     0x00000000      0x2ce CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .ARM.attributes
@@ -1628,7 +1628,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
  .debug_line    0x00000000       0x70 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
- .debug_str     0x00000000      0x192 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
+ .debug_str     0x00000000      0x1bf CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
@@ -1659,7 +1659,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .debug_line    0x00000000       0x6c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
- .debug_str     0x00000000      0x18e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+ .debug_str     0x00000000      0x1bb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
@@ -1671,7 +1671,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .debug_line    0x00000000       0x6f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
- .debug_str     0x00000000      0x191 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+ .debug_str     0x00000000      0x1be CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
@@ -1683,7 +1683,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
  .debug_line    0x00000000       0x6c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
- .debug_str     0x00000000      0x18e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
+ .debug_str     0x00000000      0x1bb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
@@ -1695,7 +1695,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
  .debug_line    0x00000000       0x6e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
- .debug_str     0x00000000      0x190 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
+ .debug_str     0x00000000      0x1bd CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
@@ -1707,7 +1707,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
  .debug_line    0x00000000       0x6c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
- .debug_str     0x00000000      0x18e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
+ .debug_str     0x00000000      0x1bb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
@@ -1719,7 +1719,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .debug_line    0x00000000       0x72 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
- .debug_str     0x00000000      0x194 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+ .debug_str     0x00000000      0x1c1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
@@ -1731,7 +1731,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
  .debug_line    0x00000000       0x6c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
- .debug_str     0x00000000      0x18e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
+ .debug_str     0x00000000      0x1bb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
@@ -1743,7 +1743,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .debug_line    0x00000000       0x72 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
- .debug_str     0x00000000      0x194 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+ .debug_str     0x00000000      0x1c1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
@@ -1774,7 +1774,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
  .debug_line    0x00000000       0x70 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
- .debug_str     0x00000000      0x192 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
+ .debug_str     0x00000000      0x1bf CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
@@ -1830,7 +1830,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_line    0x00000000      0x13f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_str     0x00000000      0x1e5 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_str     0x00000000      0x212 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .comment       0x00000000       0x46 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .ARM.attributes
@@ -4404,112 +4404,112 @@ LOAD linker stubs
  .debug_rnglists
                 0x0000431f      0x3e4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
 
-.debug_line     0x00000000    0x24b62
- .debug_line    0x00000000      0x8a9 CMakeFiles/MorseCodeSOS.dir/MorseCodeSOS.c.obj
- .debug_line    0x000008a9     0x1cab CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_line    0x00002554      0x26e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
- .debug_line    0x000027c2      0x296 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
- .debug_line    0x00002a58      0x944 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
- .debug_line    0x0000339c      0x4e2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
- .debug_line    0x0000387e      0x3c8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
- .debug_line    0x00003c46     0x172e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
- .debug_line    0x00005374      0x2f3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
- .debug_line    0x00005667     0x1b40 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
- .debug_line    0x000071a7      0x429 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
- .debug_line    0x000075d0     0x315a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
- .debug_line    0x0000a72a     0x1d4e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
- .debug_line    0x0000c478      0xfc1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
- .debug_line    0x0000d439     0x1e28 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_line    0x0000f261      0x512 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
- .debug_line    0x0000f773      0x7c4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_line    0x0000ff37      0x352 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
- .debug_line    0x00010289      0x483 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_line    0x0001070c      0x36b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_line    0x00010a77      0x325 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_line    0x00010d9c      0x554 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
- .debug_line    0x000112f0      0x57f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
- .debug_line    0x0001186f      0x107 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_line    0x00011976      0x2a9 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
- .debug_line    0x00011c1f      0x3f3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
- .debug_line    0x00012012      0x57a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
- .debug_line    0x0001258c       0x5d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
- .debug_line    0x000125e9       0x61 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .debug_line    0x0001264a      0x3a8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
- .debug_line    0x000129f2      0x436 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
- .debug_line    0x00012e28       0x94 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
- .debug_line    0x00012ebc      0x1ff CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
- .debug_line    0x000130bb     0x1b9d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
- .debug_line    0x00014c58       0xa5 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
- .debug_line    0x00014cfd      0x888 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
- .debug_line    0x00015585     0x1573 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_line    0x00016af8      0xe43 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
- .debug_line    0x0001793b      0x539 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
- .debug_line    0x00017e74     0x11f8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .debug_line    0x0001906c      0x3d1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .debug_line    0x0001943d      0x675 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
- .debug_line    0x00019ab2      0xb70 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
- .debug_line    0x0001a622     0x2060 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .debug_line    0x0001c682      0xceb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- .debug_line    0x0001d36d     0x2876 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
- .debug_line    0x0001fbe3      0x6f4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
- .debug_line    0x000202d7     0x1153 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
- .debug_line    0x0002142a      0xb20 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
- .debug_line    0x00021f4a     0x112b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
- .debug_line    0x00023075     0x1aed CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
+.debug_line     0x00000000    0x24b8f
+ .debug_line    0x00000000      0x8d6 CMakeFiles/MorseCodeSOS.dir/MorseCodeSOS.c.obj
+ .debug_line    0x000008d6     0x1cab CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_line    0x00002581      0x26e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
+ .debug_line    0x000027ef      0x296 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
+ .debug_line    0x00002a85      0x944 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
+ .debug_line    0x000033c9      0x4e2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_line    0x000038ab      0x3c8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
+ .debug_line    0x00003c73     0x172e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_line    0x000053a1      0x2f3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
+ .debug_line    0x00005694     0x1b40 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
+ .debug_line    0x000071d4      0x429 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
+ .debug_line    0x000075fd     0x315a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
+ .debug_line    0x0000a757     0x1d4e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_line    0x0000c4a5      0xfc1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
+ .debug_line    0x0000d466     0x1e28 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_line    0x0000f28e      0x512 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_line    0x0000f7a0      0x7c4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_line    0x0000ff64      0x352 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
+ .debug_line    0x000102b6      0x483 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_line    0x00010739      0x36b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_line    0x00010aa4      0x325 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_line    0x00010dc9      0x554 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
+ .debug_line    0x0001131d      0x57f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
+ .debug_line    0x0001189c      0x107 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_line    0x000119a3      0x2a9 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
+ .debug_line    0x00011c4c      0x3f3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
+ .debug_line    0x0001203f      0x57a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
+ .debug_line    0x000125b9       0x5d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
+ .debug_line    0x00012616       0x61 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+ .debug_line    0x00012677      0x3a8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
+ .debug_line    0x00012a1f      0x436 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
+ .debug_line    0x00012e55       0x94 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_line    0x00012ee9      0x1ff CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
+ .debug_line    0x000130e8     0x1b9d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
+ .debug_line    0x00014c85       0xa5 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
+ .debug_line    0x00014d2a      0x888 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
+ .debug_line    0x000155b2     0x1573 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_line    0x00016b25      0xe43 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+ .debug_line    0x00017968      0x539 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+ .debug_line    0x00017ea1     0x11f8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .debug_line    0x00019099      0x3d1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .debug_line    0x0001946a      0x675 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .debug_line    0x00019adf      0xb70 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
+ .debug_line    0x0001a64f     0x2060 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .debug_line    0x0001c6af      0xceb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ .debug_line    0x0001d39a     0x2876 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
+ .debug_line    0x0001fc10      0x6f4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
+ .debug_line    0x00020304     0x1153 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+ .debug_line    0x00021457      0xb20 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+ .debug_line    0x00021f77     0x112b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
+ .debug_line    0x000230a2     0x1aed CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
 
-.debug_str      0x00000000     0x8b87
- .debug_str     0x00000000     0x8b87 CMakeFiles/MorseCodeSOS.dir/MorseCodeSOS.c.obj
-                                0x42e (size before relaxing)
- .debug_str     0x00008b87      0xc71 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_str     0x00008b87      0x1f5 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
- .debug_str     0x00008b87      0x1fc CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
- .debug_str     0x00008b87      0x37f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
- .debug_str     0x00008b87      0x328 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
- .debug_str     0x00008b87      0x23b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
- .debug_str     0x00008b87      0xa5f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
- .debug_str     0x00008b87      0x207 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
- .debug_str     0x00008b87      0x79a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
- .debug_str     0x00008b87      0x2c7 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
- .debug_str     0x00008b87     0x1197 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
- .debug_str     0x00008b87      0x9e2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
- .debug_str     0x00008b87      0xbf1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
- .debug_str     0x00008b87      0x991 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_str     0x00008b87      0x45a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
- .debug_str     0x00008b87      0x391 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_str     0x00008b87      0x289 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
- .debug_str     0x00008b87      0x337 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_str     0x00008b87      0x23e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_str     0x00008b87      0x28e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_str     0x00008b87      0x782 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
- .debug_str     0x00008b87      0x496 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
- .debug_str     0x00008b87       0x86 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_str     0x00008b87       0x89 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
- .debug_str     0x00008b87       0x8b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
- .debug_str     0x00008b87      0x2dd CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
- .debug_str     0x00008b87       0x91 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
- .debug_str     0x00008b87       0x8f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .debug_str     0x00008b87       0x89 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
- .debug_str     0x00008b87      0x2a2 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
- .debug_str     0x00008b87       0x86 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
- .debug_str     0x00008b87      0x437 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
- .debug_str     0x00008b87      0x4d1 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
- .debug_str     0x00008b87       0x7a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
- .debug_str     0x00008b87      0x71c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
- .debug_str     0x00008b87      0xd97 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_str     0x00008b87      0xed0 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
- .debug_str     0x00008b87      0xdf6 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
- .debug_str     0x00008b87      0xe1f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .debug_str     0x00008b87      0xf98 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .debug_str     0x00008b87      0x26d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
- .debug_str     0x00008b87      0x6c7 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
- .debug_str     0x00008b87     0x114d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .debug_str     0x00008b87      0x9ec CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- .debug_str     0x00008b87     0x1a57 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
- .debug_str     0x00008b87      0x682 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
- .debug_str     0x00008b87     0x16e4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
- .debug_str     0x00008b87      0xd9f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
- .debug_str     0x00008b87      0xbab CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
- .debug_str     0x00008b87      0x62c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
+.debug_str      0x00000000     0x8be1
+ .debug_str     0x00000000     0x8be1 CMakeFiles/MorseCodeSOS.dir/MorseCodeSOS.c.obj
+                                0x488 (size before relaxing)
+ .debug_str     0x00008be1      0xc9e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_str     0x00008be1      0x222 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
+ .debug_str     0x00008be1      0x229 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
+ .debug_str     0x00008be1      0x3ac CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
+ .debug_str     0x00008be1      0x355 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_str     0x00008be1      0x268 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
+ .debug_str     0x00008be1      0xa8c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_str     0x00008be1      0x234 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
+ .debug_str     0x00008be1      0x7c7 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
+ .debug_str     0x00008be1      0x2f4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
+ .debug_str     0x00008be1     0x11c4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
+ .debug_str     0x00008be1      0xa0f CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_str     0x00008be1      0xc1e CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
+ .debug_str     0x00008be1      0x9be CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_str     0x00008be1      0x487 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_str     0x00008be1      0x3be CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_str     0x00008be1      0x2b6 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
+ .debug_str     0x00008be1      0x364 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_str     0x00008be1      0x26b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_str     0x00008be1      0x2bb CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_str     0x00008be1      0x7af CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
+ .debug_str     0x00008be1      0x4c3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
+ .debug_str     0x00008be1       0xb3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_str     0x00008be1       0xb6 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
+ .debug_str     0x00008be1       0xb8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
+ .debug_str     0x00008be1      0x30a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
+ .debug_str     0x00008be1       0xbe CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
+ .debug_str     0x00008be1       0xbc CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+ .debug_str     0x00008be1       0xb6 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
+ .debug_str     0x00008be1      0x2cf CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
+ .debug_str     0x00008be1       0xb3 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_str     0x00008be1      0x464 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
+ .debug_str     0x00008be1      0x4fe CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
+ .debug_str     0x00008be1       0xa7 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
+ .debug_str     0x00008be1      0x749 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
+ .debug_str     0x00008be1      0xdc4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_str     0x00008be1      0xefd CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+ .debug_str     0x00008be1      0xe23 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+ .debug_str     0x00008be1      0xe4c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .debug_str     0x00008be1      0xfc5 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .debug_str     0x00008be1      0x29a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .debug_str     0x00008be1      0x6f4 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
+ .debug_str     0x00008be1     0x117a CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .debug_str     0x00008be1      0xa19 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ .debug_str     0x00008be1     0x1a84 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
+ .debug_str     0x00008be1      0x6af CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
+ .debug_str     0x00008be1     0x1711 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+ .debug_str     0x00008be1      0xdcc CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+ .debug_str     0x00008be1      0xbd8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
+ .debug_str     0x00008be1      0x659 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
 
 .debug_frame    0x00000000     0x3058
  .debug_frame   0x00000000       0x7c CMakeFiles/MorseCodeSOS.dir/MorseCodeSOS.c.obj
@@ -4557,23 +4557,23 @@ LOAD linker stubs
  .debug_frame   0x00003030       0x28 C:/Users/V1n1Paz/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libg.a(libc_a-strlen-stub.o)
 
 .debug_line_str
-                0x00000000      0x34b
+                0x00000000      0x378
  .debug_line_str
-                0x00000000      0x34b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
-                                 0x78 (size before relaxing)
+                0x00000000      0x378 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                                 0xa5 (size before relaxing)
  .debug_line_str
-                0x0000034b       0x7b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
+                0x00000378       0xa8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
  .debug_line_str
-                0x0000034b       0x7d CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
+                0x00000378       0xaa CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
  .debug_line_str
-                0x0000034b       0x83 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
+                0x00000378       0xb0 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
  .debug_line_str
-                0x0000034b       0x81 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                0x00000378       0xae CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
  .debug_line_str
-                0x0000034b       0x7b CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
+                0x00000378       0xa8 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
  .debug_line_str
-                0x0000034b       0x78 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x00000378       0xa5 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
  .debug_line_str
-                0x0000034b       0x6c CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
+                0x00000378       0x99 CMakeFiles/MorseCodeSOS.dir/C_/Users/V1n1Paz/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
  .debug_line_str
-                0x0000034b       0xc9 C:/Users/V1n1Paz/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x00000378       0xc9 C:/Users/V1n1Paz/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
