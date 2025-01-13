@@ -28,7 +28,7 @@ void blinkS( uint ledOut ){             // Função para piscar a letra S
         sleep_ms(200);                  // Aguarda 200ms
         gpio_put(ledOut, false);        // Apaga o LED indicado
         if ( i != 2 )                   // Se não for a última repetição da letra
-            sleep_ms(125);              // Aguarda 125ms //
+            sleep_ms(125);              // Aguarda 125ms
     }
 }
 
