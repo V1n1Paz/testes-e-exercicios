@@ -39,16 +39,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Vini/EMBARCATECH/MorseCodeSOS/build/pico-sdk/tools/cmake_install.cmake")
+  include("D:/Vini/testes-e-exercicios/C-C++/exercicios-raspberry-pi-pico-w/MorseCodeSOS/build/pico-sdk/tools/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Vini/EMBARCATECH/MorseCodeSOS/build/pico-sdk/src/cmake_install.cmake")
+  include("D:/Vini/testes-e-exercicios/C-C++/exercicios-raspberry-pi-pico-w/MorseCodeSOS/build/pico-sdk/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Vini/EMBARCATECH/MorseCodeSOS/build/pico-sdk/docs/cmake_install.cmake")
+  include("D:/Vini/testes-e-exercicios/C-C++/exercicios-raspberry-pi-pico-w/MorseCodeSOS/build/pico-sdk/docs/cmake_install.cmake")
 endif()
 
