@@ -4,7 +4,7 @@ void blinkS( uint ledOut );         // Função para piscar a letra S
 void blinkO( uint ledOut );         // Função para piscar a letra O
 void blinkLetterInterval( void );   // Função para intervalo entre letras
 
-#define ledOutBlue 12       // Pino de saída do LED azul
+#define ledOutBlue 13       // Pino de saída do LED azul
 
 int main()
 {

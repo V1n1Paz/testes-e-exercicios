@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="testeChatGPT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testeChatGPT/out/artifacts/testeChatGPT_jar/testeChatGPT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

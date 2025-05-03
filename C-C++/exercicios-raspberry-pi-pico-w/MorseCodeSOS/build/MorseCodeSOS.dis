@@ -330,8 +330,8 @@ Disassembly of section .text:
 100002d8:	2580      	movs	r5, #128	@ 0x80
 100002da:	f001 fe3d 	bl	10001f58 <stdio_init_all>
 100002de:	0624      	lsls	r4, r4, #24
-100002e0:	200c      	movs	r0, #12
-100002e2:	016d      	lsls	r5, r5, #5
+100002e0:	200d      	movs	r0, #13
+100002e2:	01ad      	lsls	r5, r5, #6
 100002e4:	f000 f85e 	bl	100003a4 <gpio_init>
 100002e8:	6265      	str	r5, [r4, #36]	@ 0x24
 100002ea:	2603      	movs	r6, #3
