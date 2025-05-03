@@ -1,4 +1,5 @@
 .vscode/
+CmakeLists.txt
 *.layout
 *.depend
 *.cbp
